@@ -33,7 +33,6 @@ Guardian_Battery/
 ## Requirements
 
 - MATLAB/Simulink (developed on R2024b/R2025a-era releases)
-- Stateflow (for the Coulomb Counting flag logic)
 - No additional toolboxes required to run the core model standalone
 
 ## Getting started
